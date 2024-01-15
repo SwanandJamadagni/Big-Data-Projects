@@ -1,0 +1,31 @@
+0057                                                    0-3
+332130   # USAF weather station identifier              4-9
+99999    # WBAN weather station identifier              10-14
+19500101 # observation date                             15-22
+0300     # observation time                             23-26
+4                                                       27
++51317   # latitude (degrees x 1000)                    28-33
++028783  # longitude (degrees x 1000)                   34-40
+FM-12                                                   41-45
++0171    # elevation (meters)                           46-50
+99999                                                   51-55
+V020                                                    56-59
+320      # wind direction (degrees)                     60-62
+1        # quality code                                 63
+N                                                       64
+0072                                                    65-68
+1                                                       69
+00450    # sky ceiling height (meters)                  70-74
+1        # quality code                                 75
+C                                                       76
+N                                                       77
+010000   # visibility distance (meters)                 78-83
+1        # quality code                                 84
+N                                                       85
+9                                                       86
+-0128    # air temperature (degrees Celsius x 10)       87-91
+1        # quality code                                 92
+-0139    # dew point temperature (degrees Celsius x 10) 93-97
+1        # quality code                                 98
+10268    # atmospheric pressure (hectopascals x 10)     99-103
+1        # quality code                                 104
